@@ -7,7 +7,7 @@ import org.testng.annotations.AfterTest;
 public class GitDemo {
   @Test
   public void f() {
-	  System.out.println("Hello Git");
+	  System.out.println("Git");
   }
   @BeforeTest
   public void beforeTest() {
